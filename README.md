@@ -48,7 +48,7 @@ While Running The Test Cases In Terminal Cypress Provides A Video Of How The Tes
 
 The Video Can Be Found In The Location:
 `planit-sdet-assessment/cypress/videos/all.spec.cy.js.mp4`
-<img src=".//images/Screen _Shot_1.png" alt="Logo of the project">
+<img src=".//images/Screen _Shot_1.png" alt="Screenshot Of Terminal Automation Tests">
 
 The Second Way To Run The Automated Test Cases Through Browser
 To Run The Test Cases In Browser Please Run The Following Command
@@ -59,18 +59,18 @@ npx cypress open
 
 Cypress Will Open An Application Which We Can See In The Below
 Since All The Test Have Been Configured Please Press E2E Testing
-<img src=".//images/Screen _Shot_2.png" alt="Logo of the project">
+<img src=".//images/Screen _Shot_2.png" alt="Screenshot Of Opening Cypress Application">
 After Clicking E2E Testing It Will Promt To Select The Browser Please Select The Browser You Want To Select And Click `Start E2E Testing`.
 
-<img src=".//images/Screen _Shot_3.png" alt="Logo of the project">
+<img src=".//images/Screen _Shot_3.png" alt="Screenshot Of Choosing Browser">
 
 After Selecting Browser Cypress Opens In A Browser To Run The Test Files Please Click On The `all.spec.cy.js`
 
-<img src=".//images/Screen _Shot_4.png" alt="Logo of the project">
+<img src=".//images/Screen _Shot_4.png" alt="Screenshot Of Selecting File To Run Automation Tests">
 
 After Clicking On The `all.spec.cy.js` All The Test Cases Executes One After Another We Can See It In The Below Image
 
-<img src=".//images/Screen _Shot_5.png" alt="Logo of the project">
+<img src=".//images/Screen _Shot_5.png" alt="Screenshot Of All Tests Running In The Browser">
 
 ## Running The Task Two
 
@@ -87,7 +87,7 @@ After Providing The Input It Tells You The Character With Highest Number Of Occu
 
 The Execution Of The Challange Can Be Found Below.
 
-<img src=".//images/Screen _Shot_6.png" alt="Logo of the project">
+<img src=".//images/Screen _Shot_6.png" alt="Screenshot Of Extecution And Result Of Challange 2">
 
 Challenge 6.
 
@@ -99,4 +99,4 @@ It Will Fetch The Data From The API And Display The Count Of Avaliable Pets.
 
 The Execution Of The Challange Can Be Found Below.
 
-<img src=".//images/Screen _Shot_7.png" alt="Logo of the project">
+<img src=".//images/Screen _Shot_7.png" alt="Screenshot Of Extecution And Result Of Challange 6">
